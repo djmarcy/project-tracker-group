@@ -2,3 +2,12 @@
     color: black;
     background-color: hotpink;
 }
+
+body {
+    background-image: url("https://2.bp.blogspot.com/-u3WuD2iZkvM/WJpVkKywVHI/AAAAAAAAA1s/JVevW-jMgI0nRUPywcwkvP_UyN9DLxdWQCLcB/s1600/imagenes%2Bgif%2B7.gif")
+    !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
